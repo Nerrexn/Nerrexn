@@ -29,7 +29,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
 <p align="center">
-  <h3> I'm 16 years old Self-taught developer from America.</h3>
+  <h3> I'm 26 years old Self-taught developer from America.</h3>
 </p>
 
  - Learning Python
